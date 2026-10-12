@@ -1,4 +1,6 @@
-# Osool Checks — Product Spec
+# MBM Cheques — Product Spec
+
+Product name: "MBM Cheques" (Arabic UI name: "MBM للشيكات"). Part of the MBM product family. Use this name in the app title, PDFs, Excel exports, README and package name (`mbm-cheques`). Never use any company name of a specific client.
 
 A standalone, general-purpose cheque printing and cheque register web app, usable by any business (any industry, any bank, any currency). Runs fully in the browser with local storage. No backend.
 
